@@ -6,7 +6,7 @@ I am currently finishing off the SheCodes.io bootcamp encompassing frontend Deve
 
 🌱 I’m currently learning about React and working on a Dictionary App 
 
-All of my projects are available to view on my repositiory portfolio-project
+💻 All of my projects are available to view on my repositiory portfolio-project
 
 📫 How to reach me
 faicatmck@gmail.com
